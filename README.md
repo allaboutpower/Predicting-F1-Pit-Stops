@@ -82,7 +82,7 @@ pip install scikit-learn==1.7.2 xgboost==3.1.3 lightgbm==4.6.0 catboost==1.2.8 p
 ### 8. Submission
 - 輸出 `submission.csv`
 - CDF & KDE 分布圖比對 train OOF 與 test 預測的一致性
-
+![Model Score](https://github.com/allaboutpower/Predicting-F1-Pit-Stops/raw/main/images/modelScore)
 ---
 
 ## 📈 Metric
