@@ -1,7 +1,7 @@
 # 🏎️ F1 Pit Stop Prediction — Ensemble & EDA
 
 Kaggle Playground Series S6E5 競賽解題 Notebook，目標為預測 F1 賽車下一圈是否進站（`PitNextLap`），評估指標為 **ROC-AUC**。
-
+https://www.kaggle.com/competitions/playground-series-s6e5
 ---
 
 ## 📁 Project Structure
